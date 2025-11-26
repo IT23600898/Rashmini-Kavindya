@@ -12,6 +12,7 @@ const Navbar = () => {
       <div className='space-x-8 hidden md:flex items-center text-slate-300 font-medium'>
         <a href="#home" className="hover:text-blue-300 hover:shadow-[0_2px_0_0_#60a5fa] pb-1 transition-all duration-300">Home</a>
         <a href="#about" className="hover:text-blue-300 hover:shadow-[0_2px_0_0_#60a5fa] pb-1 transition-all duration-300">About Me</a>
+        <a href="#skills" className="hover:text-blue-300 hover:shadow-[0_2px_0_0_#60a5fa] pb-1 transition-all duration-300">Skills</a>
         <a href="#projects" className="hover:text-blue-300 hover:shadow-[0_2px_0_0_#60a5fa] pb-1 transition-all duration-300">Projects</a>
         <a href="#contact" className="hover:text-blue-300 hover:shadow-[0_2px_0_0_#60a5fa] pb-1 transition-all duration-300">Contact</a>
         
